@@ -1,5 +1,4 @@
 import sys
-from operator import itemgetter
 
 def find_longest_common_subsequence(file_name):
     try:
